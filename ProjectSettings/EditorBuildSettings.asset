@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Begin.unity
+    guid: ffc81228d0d0a3745b7c749f0c2503a9
+  - enabled: 0
+    path: Assets/Scenes/3D.unity
+    guid: d625267c0f7f53a44839392ec18f92de
+  - enabled: 0
+    path: Assets/Scenes/3D_Animation_Practice.unity
+    guid: 848c9c0baf15c594db1b7b58c0fd374f
+  - enabled: 0
+    path: Assets/Scenes/3D_Animation_S.unity
+    guid: cbe7cccdcce16cf41850a64af8247b09
+  - enabled: 1
+    path: Assets/Scenes/FB0.0cm.unity
+    guid: 779de9bfe59c05f49b4ac818c90fed2e
+  - enabled: 0
+    path: Assets/Scenes/3D_Audio_Animation_S.unity
+    guid: d598e4f68ab03394096540f983b7fb27
+  - enabled: 0
+    path: Assets/Scenes/3D_Audio_Practice.unity
+    guid: 0f38d8c5646d8514f9612cc6d92df822
+  - enabled: 0
+    path: Assets/Scenes/3D_Audio_S.unity
+    guid: 47d4b70f90d4c63458a1ef3986206397
+  - enabled: 0
+    path: Assets/Scenes/3D_Practice.unity
+    guid: 32e1b9559fde8664d87dbe1cdef11d32
+  - enabled: 1
+    path: Assets/Scenes/FB0.5cm.unity
+    guid: 8ba7881a3537ae54e9f39318a42ffbee
+  - enabled: 1
+    path: Assets/Scenes/FB1.0cm.unity
+    guid: e4160956fcbb5034590b0544655f6655
+  - enabled: 1
+    path: Assets/Scenes/FB1.5cm.unity
+    guid: 39789daea1aae6647bc50f4e97df8b7a
+  - enabled: 1
+    path: Assets/Scenes/FB2.0cm.unity
+    guid: 92c4b80d620b47b43a0eb15458a053fd
+  - enabled: 1
+    path: Assets/Scenes/FB2.5cm.unity
+    guid: f6b8734e4cc77ea4096323912f0f8025
+  - enabled: 1
+    path: Assets/Scenes/FB3.0cm.unity
+    guid: 89810419415d47c429b906116de06fbd
+  - enabled: 1
+    path: Assets/Scenes/FB3.5cm.unity
+    guid: e6802738f32b3e540a6345061b844152
+  - enabled: 1
+    path: Assets/Scenes/FB4.0cm.unity
+    guid: 8b30b62b54e26fb40a71063fdab788be
+  - enabled: 1
+    path: Assets/Scenes/FB4.5cm.unity
+    guid: 17e11a3b9f3fe9842a893710af6a3135
+  - enabled: 1
+    path: Assets/Scenes/FB5.0cm.unity
+    guid: cafd896d12e4b8344aff6d1b86db6034
+  - enabled: 1
+    path: Assets/Scenes/FB5.5cm.unity
+    guid: e380c55a1945e8041b072730d3b67989
+  - enabled: 1
+    path: Assets/Scenes/FB6.0cm.unity
+    guid: 8cd99a68ca60bcd458d6faac83559974
+  - enabled: 1
+    path: Assets/Scenes/End.unity
+    guid: 694630ce1c600d449ad1356129018f9c
+  m_configObjects: {}
